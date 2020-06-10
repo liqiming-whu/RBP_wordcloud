@@ -1,0 +1,12 @@
+# vscode
+.vscode/
+# backup
+backup/
+#log
+log/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+result.txt
+wordcloud.png
+*.xml
