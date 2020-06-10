@@ -7,6 +7,7 @@ log/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+download/*
 result.txt
 wordcloud.png
 *.xml
